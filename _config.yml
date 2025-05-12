@@ -8,6 +8,10 @@ start: &1 2025-03-03
 end: 2025-03-03
 published: 2025-03-31
 sections:
+- name: Preface
+  title: Preface
+- name: Keynote
+  title: Keynote
 - name: Spotlight
   title: Spotlight
 - name: Poster
