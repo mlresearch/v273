@@ -1,6 +1,6 @@
 ---
 title: 'Scribbles That Speak: AI and Handwriting Analysis to Address Pathological Challenges'
-section: keynote
+section: Keynote
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
