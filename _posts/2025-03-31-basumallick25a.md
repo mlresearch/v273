@@ -35,7 +35,7 @@ issued:
   - 2025
   - 3
   - 30
-pdf: https://raw.githubusercontent.com/mlresearch/v273/main/assets/basumallick2025/basumallick2025.pdf
+pdf: https://raw.githubusercontent.com/mlresearch/v273/main/assets/basumallick25a/basumallick25a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---
