@@ -4,7 +4,7 @@ booktitle: Proceedings of the Innovation and Responsibility in AI-Supported Educ
 shortname: iRAISE
 volume: '273'
 year: '2025'
-start: &1 2025-03-03
+start: 2025-03-03
 end: 2025-03-03
 published: 2025-03-31
 sections:
@@ -91,7 +91,7 @@ conference:
   url: https://iraise-25-aaai.my.canva.site/
   location: Philadelphia, Pennsylvania, USA
   dates:
-  - *1
+  - 2025-03-03
 analytics:
   google:
     tracking_id: UA-92432422-1
